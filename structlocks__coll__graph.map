@@ -1,0 +1,7 @@
+<map id="locks" name="locks">
+<area shape="rect" id="node2" href="$structlock.html" title="lock" alt="" coords="72,303,119,329"/>
+<area shape="rect" id="node3" href="$structsemaphore.html" title="semaphore" alt="" coords="5,213,92,240"/>
+<area shape="rect" id="node4" href="$structlist.html" title="list" alt="" coords="44,112,83,139"/>
+<area shape="rect" id="node5" href="$structlist__elem.html" title="list_elem" alt="" coords="65,7,139,33"/>
+<area shape="rect" id="node6" href="$structthread.html" title="thread" alt="" coords="109,163,167,189"/>
+</map>

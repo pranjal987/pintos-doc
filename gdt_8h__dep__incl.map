@@ -1,0 +1,6 @@
+<map id="/home/pranjal/pintos/src/userprog/gdt.h" name="/home/pranjal/pintos/src/userprog/gdt.h">
+<area shape="rect" id="node2" href="$exception_8c.html" title="/home/pranjal/pintos\l/src/userprog/exception.c" alt="" coords="5,95,175,136"/>
+<area shape="rect" id="node3" href="$gdt_8c.html" title="/home/pranjal/pintos\l/src/userprog/gdt.c" alt="" coords="199,95,338,136"/>
+<area shape="rect" id="node4" href="$process_8c.html" title="/home/pranjal/pintos\l/src/userprog/process.c" alt="" coords="363,95,521,136"/>
+<area shape="rect" id="node5" href="$tss_8c.html" title="/home/pranjal/pintos\l/src/userprog/tss.c" alt="" coords="546,95,685,136"/>
+</map>

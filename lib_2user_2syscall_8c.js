@@ -1,0 +1,27 @@
+var lib_2user_2syscall_8c =
+[
+    [ "syscall0", "lib_2user_2syscall_8c.html#af87cfd9e12b20c1d22ded5f046cab2c2", null ],
+    [ "syscall1", "lib_2user_2syscall_8c.html#a13d6f0a5a79024477f044fc097e30bf5", null ],
+    [ "syscall2", "lib_2user_2syscall_8c.html#af586b00a16f8fffefe6da2af7d4f8ede", null ],
+    [ "syscall3", "lib_2user_2syscall_8c.html#a549949d24f31b30e7633c0c57f960bcd", null ],
+    [ "chdir", "lib_2user_2syscall_8c.html#a0f1d28aee7fcdf4dac50eff5ea39ca57", null ],
+    [ "close", "lib_2user_2syscall_8c.html#a5bbe56a416af8f77723b652362f742f7", null ],
+    [ "create", "lib_2user_2syscall_8c.html#a352dd80fdc4fdb4689aac9555fe28202", null ],
+    [ "exec", "lib_2user_2syscall_8c.html#a988616aeb494987bc645f602f820f3fc", null ],
+    [ "exit", "lib_2user_2syscall_8c.html#a55e99c539cf7723ec15e856b7e0a8cee", null ],
+    [ "filesize", "lib_2user_2syscall_8c.html#a2aff9d03d32ff7fbc2885fdb1a1b8deb", null ],
+    [ "halt", "lib_2user_2syscall_8c.html#aee01d3a42fbcda425a19cbc4bd0194cd", null ],
+    [ "inumber", "lib_2user_2syscall_8c.html#a7e7eb2098a672ca4e4bf2a95b11d1aee", null ],
+    [ "isdir", "lib_2user_2syscall_8c.html#aad8fb521859618a34294cb6b71e92209", null ],
+    [ "mkdir", "lib_2user_2syscall_8c.html#ae7d9ebc226866a8c70b31c6d03316b6e", null ],
+    [ "mmap", "lib_2user_2syscall_8c.html#a2a42e84b23be59486aa2d8fc45e09fd2", null ],
+    [ "munmap", "lib_2user_2syscall_8c.html#afb6222b2fe78d9599f5e35375bc7d930", null ],
+    [ "open", "lib_2user_2syscall_8c.html#a703a13bc53a317ea70b87280ad3d974e", null ],
+    [ "read", "lib_2user_2syscall_8c.html#ab0f9f22d375a9229b3c77859cf2035a0", null ],
+    [ "readdir", "lib_2user_2syscall_8c.html#a0aa847a91eaead434f068da636ec821f", null ],
+    [ "remove", "lib_2user_2syscall_8c.html#a7a5f4b007384216b3290a57447198e93", null ],
+    [ "seek", "lib_2user_2syscall_8c.html#a8564f364b563e7b67cb474833c017549", null ],
+    [ "tell", "lib_2user_2syscall_8c.html#a8cfd3d5932b70411bfc386a258159a27", null ],
+    [ "wait", "lib_2user_2syscall_8c.html#a648af82f59c1f44541220926a9fae7dc", null ],
+    [ "write", "lib_2user_2syscall_8c.html#a7d9f2533bbf31e3d1d4c5e1454efd41d", null ]
+];

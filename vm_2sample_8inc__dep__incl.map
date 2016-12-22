@@ -1,0 +1,15 @@
+<map id="/home/pranjal/pintos/src/tests/vm/sample.inc" name="/home/pranjal/pintos/src/tests/vm/sample.inc">
+<area shape="rect" id="node2" href="$child-inherit_8c.html" title="/home/pranjal/pintos\l/src/tests/vm/child&#45;inherit.c" alt="" coords="5,102,185,143"/>
+<area shape="rect" id="node3" href="$child-mm-wrt_8c.html" title="/home/pranjal/pintos\l/src/tests/vm/child&#45;mm&#45;wrt.c" alt="" coords="210,102,399,143"/>
+<area shape="rect" id="node4" href="$mmap-clean_8c.html" title="/home/pranjal/pintos\l/src/tests/vm/mmap&#45;clean.c" alt="" coords="424,102,609,143"/>
+<area shape="rect" id="node5" href="$mmap-close_8c.html" title="/home/pranjal/pintos\l/src/tests/vm/mmap&#45;close.c" alt="" coords="633,102,819,143"/>
+<area shape="rect" id="node6" href="$mmap-exit_8c.html" title="/home/pranjal/pintos\l/src/tests/vm/mmap&#45;exit.c" alt="" coords="843,102,1017,143"/>
+<area shape="rect" id="node7" href="$mmap-inherit_8c.html" title="/home/pranjal/pintos\l/src/tests/vm/mmap&#45;inherit.c" alt="" coords="1042,102,1231,143"/>
+<area shape="rect" id="node8" href="$mmap-overlap_8c.html" title="/home/pranjal/pintos\l/src/tests/vm/mmap&#45;overlap.c" alt="" coords="1256,102,1452,143"/>
+<area shape="rect" id="node9" href="$mmap-read_8c.html" title="/home/pranjal/pintos\l/src/tests/vm/mmap&#45;read.c" alt="" coords="1477,102,1655,143"/>
+<area shape="rect" id="node10" href="$mmap-remove_8c.html" title="/home/pranjal/pintos\l/src/tests/vm/mmap&#45;remove.c" alt="" coords="1679,102,1877,143"/>
+<area shape="rect" id="node11" href="$mmap-twice_8c.html" title="/home/pranjal/pintos\l/src/tests/vm/mmap&#45;twice.c" alt="" coords="1901,102,2087,143"/>
+<area shape="rect" id="node12" href="$mmap-unmap_8c.html" title="/home/pranjal/pintos\l/src/tests/vm/mmap&#45;unmap.c" alt="" coords="2111,102,2304,143"/>
+<area shape="rect" id="node13" href="$mmap-write_8c.html" title="/home/pranjal/pintos\l/src/tests/vm/mmap&#45;write.c" alt="" coords="2328,102,2511,143"/>
+<area shape="rect" id="node14" href="$pt-grow-stk-sc_8c.html" title="/home/pranjal/pintos\l/src/tests/vm/pt&#45;grow\l&#45;stk&#45;sc.c" alt="" coords="2535,95,2682,151"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="/home/pranjal/pintos/src/devices/timer.h" name="/home/pranjal/pintos/src/devices/timer.h">
+<area shape="rect" id="node2" href="$ide_8c.html" title="/home/pranjal/pintos\l/src/devices/ide.c" alt="" coords="5,102,144,143"/>
+<area shape="rect" id="node3" href="$serial_8c.html" title="/home/pranjal/pintos\l/src/devices/serial.c" alt="" coords="168,102,307,143"/>
+<area shape="rect" id="node4" href="$shutdown_8c.html" title="/home/pranjal/pintos\l/src/devices/shutdown.c" alt="" coords="331,102,495,143"/>
+<area shape="rect" id="node5" href="$speaker_8c.html" title="/home/pranjal/pintos\l/src/devices/speaker.c" alt="" coords="520,102,675,143"/>
+<area shape="rect" id="node6" href="$timer_8c.html" title="/home/pranjal/pintos\l/src/devices/timer.c" alt="" coords="699,102,837,143"/>
+<area shape="rect" id="node7" href="$alarm-negative_8c.html" title="/home/pranjal/pintos\l/src/tests/threads/alarm\l&#45;negative.c" alt="" coords="861,95,1021,151"/>
+<area shape="rect" id="node8" href="$alarm-priority_8c.html" title="/home/pranjal/pintos\l/src/tests/threads/alarm\l&#45;priority.c" alt="" coords="1045,95,1205,151"/>
+<area shape="rect" id="node9" href="$alarm-simultaneous_8c.html" title="/home/pranjal/pintos\l/src/tests/threads/alarm\l&#45;simultaneous.c" alt="" coords="1229,95,1389,151"/>
+<area shape="rect" id="node10" href="$alarm-wait_8c.html" title="/home/pranjal/pintos\l/src/tests/threads/alarm\l&#45;wait.c" alt="" coords="1413,95,1573,151"/>
+<area shape="rect" id="node11" href="$alarm-zero_8c.html" title="/home/pranjal/pintos\l/src/tests/threads/alarm\l&#45;zero.c" alt="" coords="1597,95,1757,151"/>
+<area shape="rect" id="node12" href="$mlfqs-block_8c.html" title="/home/pranjal/pintos\l/src/tests/threads/mlfqs\l&#45;block.c" alt="" coords="1781,95,1941,151"/>
+<area shape="rect" id="node13" href="$mlfqs-fair_8c.html" title="/home/pranjal/pintos\l/src/tests/threads/mlfqs\l&#45;fair.c" alt="" coords="1965,95,2125,151"/>
+<area shape="rect" id="node14" href="$mlfqs-load-1_8c.html" title="/home/pranjal/pintos\l/src/tests/threads/mlfqs\l&#45;load&#45;1.c" alt="" coords="2149,95,2309,151"/>
+<area shape="rect" id="node15" href="$mlfqs-load-60_8c.html" title="/home/pranjal/pintos\l/src/tests/threads/mlfqs\l&#45;load&#45;60.c" alt="" coords="2333,95,2493,151"/>
+<area shape="rect" id="node16" href="$mlfqs-load-avg_8c.html" title="/home/pranjal/pintos\l/src/tests/threads/mlfqs\l&#45;load&#45;avg.c" alt="" coords="2517,95,2677,151"/>
+<area shape="rect" id="node17" href="$mlfqs-recent-1_8c.html" title="/home/pranjal/pintos\l/src/tests/threads/mlfqs\l&#45;recent&#45;1.c" alt="" coords="2701,95,2861,151"/>
+<area shape="rect" id="node18" href="$priority-condvar_8c.html" title="/home/pranjal/pintos\l/src/tests/threads/priority\l&#45;condvar.c" alt="" coords="2886,95,3053,151"/>
+<area shape="rect" id="node19" href="$priority-fifo_8c.html" title="/home/pranjal/pintos\l/src/tests/threads/priority\l&#45;fifo.c" alt="" coords="3077,95,3243,151"/>
+<area shape="rect" id="node20" href="$priority-sema_8c.html" title="/home/pranjal/pintos\l/src/tests/threads/priority\l&#45;sema.c" alt="" coords="3267,95,3434,151"/>
+<area shape="rect" id="node21" href="$init_8c.html" title="/home/pranjal/pintos\l/src/threads/init.c" alt="" coords="3459,102,3597,143"/>
+<area shape="rect" id="node22" href="$interrupt_8c.html" title="/home/pranjal/pintos\l/src/threads/interrupt.c" alt="" coords="3622,102,3775,143"/>
+</map>

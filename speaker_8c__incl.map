@@ -1,0 +1,11 @@
+<map id="/home/pranjal/pintos/src/devices/speaker.c" name="/home/pranjal/pintos/src/devices/speaker.c">
+<area shape="rect" id="node2" href="$speaker_8h.html" title="devices/speaker.h" alt="" coords="5,95,133,121"/>
+<area shape="rect" id="node3" href="$pit_8h.html" title="devices/pit.h" alt="" coords="272,95,368,121"/>
+<area shape="rect" id="node5" href="$io_8h.html" title="threads/io.h" alt="" coords="157,95,248,121"/>
+<area shape="rect" id="node7" href="$interrupt_8h.html" title="threads/interrupt.h" alt="" coords="393,95,519,121"/>
+<area shape="rect" id="node9" href="$timer_8h.html" title="devices/timer.h" alt="" coords="543,95,654,121"/>
+<area shape="rect" id="node4" href="$stdint_8h.html" title="stdint.h" alt="" coords="307,169,373,196"/>
+<area shape="rect" id="node6" href="$stddef_8h.html" title="stddef.h" alt="" coords="168,169,237,196"/>
+<area shape="rect" id="node8" href="$stdbool_8h.html" title="stdbool.h" alt="" coords="419,169,493,196"/>
+<area shape="rect" id="node10" href="$round_8h.html" title="round.h" alt="" coords="566,169,631,196"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="/home/pranjal/pintos/src/devices/pit.c" name="/home/pranjal/pintos/src/devices/pit.c">
+<area shape="rect" id="node2" href="$pit_8h.html" title="devices/pit.h" alt="" coords="5,95,101,121"/>
+<area shape="rect" id="node3" href="$stdint_8h.html" title="stdint.h" alt="" coords="109,169,174,196"/>
+<area shape="rect" id="node4" href="$debug_8h.html" title="debug.h" alt="" coords="443,95,511,121"/>
+<area shape="rect" id="node5" href="$interrupt_8h.html" title="threads/interrupt.h" alt="" coords="177,95,303,121"/>
+<area shape="rect" id="node7" href="$io_8h.html" title="threads/io.h" alt="" coords="328,95,419,121"/>
+<area shape="rect" id="node6" href="$stdbool_8h.html" title="stdbool.h" alt="" coords="203,169,277,196"/>
+<area shape="rect" id="node8" href="$stddef_8h.html" title="stddef.h" alt="" coords="339,169,408,196"/>
+</map>

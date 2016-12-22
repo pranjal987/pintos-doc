@@ -1,0 +1,11 @@
+<map id="/home/pranjal/pintos/src/devices/intq.c" name="/home/pranjal/pintos/src/devices/intq.c">
+<area shape="rect" id="node2" href="$intq_8h.html" title="devices/intq.h" alt="" coords="150,95,253,121"/>
+<area shape="rect" id="node9" href="$debug_8h.html" title="debug.h" alt="" coords="385,169,453,196"/>
+<area shape="rect" id="node10" href="$thread_8h.html" title="threads/thread.h" alt="" coords="277,95,393,121"/>
+<area shape="rect" id="node3" href="$interrupt_8h.html" title="threads/interrupt.h" alt="" coords="177,244,303,271"/>
+<area shape="rect" id="node6" href="$synch_8h.html" title="threads/synch.h" alt="" coords="69,169,184,196"/>
+<area shape="rect" id="node4" href="$stdbool_8h.html" title="stdbool.h" alt="" coords="99,319,173,345"/>
+<area shape="rect" id="node5" href="$stdint_8h.html" title="stdint.h" alt="" coords="207,319,273,345"/>
+<area shape="rect" id="node7" href="$list_8h.html" title="list.h" alt="" coords="101,244,152,271"/>
+<area shape="rect" id="node8" href="$stddef_8h.html" title="stddef.h" alt="" coords="5,319,75,345"/>
+</map>

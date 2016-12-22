@@ -1,0 +1,12 @@
+<map id="/home/pranjal/pintos/src/threads/palloc.h" name="/home/pranjal/pintos/src/threads/palloc.h">
+<area shape="rect" id="node2" href="$fsutil_8c.html" title="/home/pranjal/pintos\l/src/filesys/fsutil.c" alt="" coords="5,102,144,143"/>
+<area shape="rect" id="node3" href="$mlfqs-fair_8c.html" title="/home/pranjal/pintos\l/src/tests/threads/mlfqs\l&#45;fair.c" alt="" coords="168,95,328,151"/>
+<area shape="rect" id="node4" href="$init_8c.html" title="/home/pranjal/pintos\l/src/threads/init.c" alt="" coords="352,102,491,143"/>
+<area shape="rect" id="node5" href="$malloc_8c.html" title="/home/pranjal/pintos\l/src/threads/malloc.c" alt="" coords="515,102,659,143"/>
+<area shape="rect" id="node6" href="$palloc_8c.html" title="/home/pranjal/pintos\l/src/threads/palloc.c" alt="" coords="683,102,823,143"/>
+<area shape="rect" id="node7" href="$thread_8c.html" title="/home/pranjal/pintos\l/src/threads/thread.c" alt="" coords="847,102,990,143"/>
+<area shape="rect" id="node8" href="$gdt_8c.html" title="/home/pranjal/pintos\l/src/userprog/gdt.c" alt="" coords="1015,102,1153,143"/>
+<area shape="rect" id="node9" href="$pagedir_8c.html" title="/home/pranjal/pintos\l/src/userprog/pagedir.c" alt="" coords="1177,102,1332,143"/>
+<area shape="rect" id="node10" href="$process_8c.html" title="/home/pranjal/pintos\l/src/userprog/process.c" alt="" coords="1357,102,1515,143"/>
+<area shape="rect" id="node11" href="$tss_8c.html" title="/home/pranjal/pintos\l/src/userprog/tss.c" alt="" coords="1540,102,1679,143"/>
+</map>

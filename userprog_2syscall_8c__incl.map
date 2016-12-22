@@ -1,0 +1,11 @@
+<map id="/home/pranjal/pintos/src/userprog/syscall.c" name="/home/pranjal/pintos/src/userprog/syscall.c">
+<area shape="rect" id="node2" href="$userprog_2syscall_8h.html" title="userprog/syscall.h" alt="" coords="5,95,133,121"/>
+<area shape="rect" id="node4" href="$syscall-nr_8h.html" title="syscall&#45;nr.h" alt="" coords="243,95,333,121"/>
+<area shape="rect" id="node5" href="$interrupt_8h.html" title="threads/interrupt.h" alt="" coords="287,169,414,196"/>
+<area shape="rect" id="node8" href="$thread_8h.html" title="threads/thread.h" alt="" coords="449,95,565,121"/>
+<area shape="rect" id="node6" href="$stdbool_8h.html" title="stdbool.h" alt="" coords="323,244,397,271"/>
+<area shape="rect" id="node7" href="$stdint_8h.html" title="stdint.h" alt="" coords="426,244,491,271"/>
+<area shape="rect" id="node9" href="$debug_8h.html" title="debug.h" alt="" coords="565,169,633,196"/>
+<area shape="rect" id="node10" href="$list_8h.html" title="list.h" alt="" coords="439,169,489,196"/>
+<area shape="rect" id="node11" href="$stddef_8h.html" title="stddef.h" alt="" coords="516,244,585,271"/>
+</map>

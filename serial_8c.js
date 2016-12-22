@@ -1,0 +1,28 @@
+var serial_8c =
+[
+    [ "FCR_REG", "serial_8c.html#ab40e57321cad737038ca898abcf348e1", null ],
+    [ "IER_RECV", "serial_8c.html#afa57ff92c27f1ce5baaab78cee47b45d", null ],
+    [ "IER_REG", "serial_8c.html#ad472d413dbbe567ce3ab207009dcf962", null ],
+    [ "IER_XMIT", "serial_8c.html#a5929cfc0cc23e9a80eecec7f4ee0a5b7", null ],
+    [ "IIR_REG", "serial_8c.html#a8143fd961c7335a3c02902d65671340a", null ],
+    [ "IO_BASE", "serial_8c.html#a4df7bd8fe3b8e6035298ad9a9d621782", null ],
+    [ "LCR_DLAB", "serial_8c.html#a1cf80a668c79b3081803063178f40920", null ],
+    [ "LCR_N81", "serial_8c.html#abda1a732225b9bae9bbc05dbe373a96b", null ],
+    [ "LCR_REG", "serial_8c.html#a61e17916586713ec21742306fb912fe3", null ],
+    [ "LS_REG", "serial_8c.html#ac38aa8f58b12ca8ce6a7c6f5660e8c59", null ],
+    [ "LSR_DR", "serial_8c.html#aeb1470d46ef966167e0c525519823003", null ],
+    [ "LSR_REG", "serial_8c.html#a543b5ca1685ba06181dfb9b325ff0837", null ],
+    [ "LSR_THRE", "serial_8c.html#a8c1a828f5fe296a9c1668cf3e72c00c1", null ],
+    [ "MCR_OUT2", "serial_8c.html#a3469b6cce183c5fee697856acc404952", null ],
+    [ "MCR_REG", "serial_8c.html#ad4e1f6f66ee96dfe3fafc2ca7371e78d", null ],
+    [ "MS_REG", "serial_8c.html#a464985639d540028fe4f8f6da885f419", null ],
+    [ "RBR_REG", "serial_8c.html#a376d6c2a5974f87b06bd63e44cce404f", null ],
+    [ "THR_REG", "serial_8c.html#a560f0c88089ee6465b516373d917fc3c", null ],
+    [ "UNINIT", "serial_8c.html#a06fc87d81c62e9abb8790b6e5713c55ba2a68f51b73db179a30b6a8aea11f7485", null ],
+    [ "POLL", "serial_8c.html#a06fc87d81c62e9abb8790b6e5713c55ba3995e28e73357bc6b7744f226af95a14", null ],
+    [ "QUEUE", "serial_8c.html#a06fc87d81c62e9abb8790b6e5713c55ba15daaafacaefff3b690c1c2669ef0caa", null ],
+    [ "serial_flush", "serial_8c.html#a04858117b8541474fe79c45a044b59cc", null ],
+    [ "serial_init_queue", "serial_8c.html#a54e99a9877b7ed2a6be751fc43905978", null ],
+    [ "serial_notify", "serial_8c.html#adb6147ac44d14c383cb2a4ded6781d3c", null ],
+    [ "serial_putc", "serial_8c.html#a07c75f3160eed07281583bfaf8eddc1b", null ]
+];

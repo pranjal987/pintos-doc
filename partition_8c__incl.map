@@ -1,0 +1,12 @@
+<map id="/home/pranjal/pintos/src/devices/partition.c" name="/home/pranjal/pintos/src/devices/partition.c">
+<area shape="rect" id="node2" href="$partition_8h.html" title="devices/partition.h" alt="" coords="5,95,133,121"/>
+<area shape="rect" id="node3" href="$packed_8h.html" title="packed.h" alt="" coords="157,95,232,121"/>
+<area shape="rect" id="node4" href="$stdlib_8h.html" title="stdlib.h" alt="" coords="347,95,411,121"/>
+<area shape="rect" id="node6" href="$string_8h.html" title="string.h" alt="" coords="257,95,322,121"/>
+<area shape="rect" id="node8" href="$block_8h.html" title="devices/block.h" alt="" coords="435,95,549,121"/>
+<area shape="rect" id="node11" href="$malloc_8h.html" title="threads/malloc.h" alt="" coords="573,95,691,121"/>
+<area shape="rect" id="node5" href="$stddef_8h.html" title="stddef.h" alt="" coords="351,169,420,196"/>
+<area shape="rect" id="node9" href="$inttypes_8h.html" title="inttypes.h" alt="" coords="453,169,531,196"/>
+<area shape="rect" id="node10" href="$stdint_8h.html" title="stdint.h" alt="" coords="459,244,525,271"/>
+<area shape="rect" id="node12" href="$debug_8h.html" title="debug.h" alt="" coords="598,169,666,196"/>
+</map>

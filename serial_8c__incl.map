@@ -1,0 +1,16 @@
+<map id="/home/pranjal/pintos/src/devices/serial.c" name="/home/pranjal/pintos/src/devices/serial.c">
+<area shape="rect" id="node2" href="$serial_8h.html" title="devices/serial.h" alt="" coords="541,244,655,271"/>
+<area shape="rect" id="node4" href="$debug_8h.html" title="debug.h" alt="" coords="347,169,415,196"/>
+<area shape="rect" id="node5" href="$input_8h.html" title="devices/input.h" alt="" coords="253,244,364,271"/>
+<area shape="rect" id="node7" href="$intq_8h.html" title="devices/intq.h" alt="" coords="117,95,220,121"/>
+<area shape="rect" id="node8" href="$interrupt_8h.html" title="threads/interrupt.h" alt="" coords="5,169,132,196"/>
+<area shape="rect" id="node9" href="$synch_8h.html" title="threads/synch.h" alt="" coords="157,169,271,196"/>
+<area shape="rect" id="node12" href="$timer_8h.html" title="devices/timer.h" alt="" coords="592,95,703,121"/>
+<area shape="rect" id="node14" href="$io_8h.html" title="threads/io.h" alt="" coords="731,244,822,271"/>
+<area shape="rect" id="node15" href="$thread_8h.html" title="threads/thread.h" alt="" coords="397,95,513,121"/>
+<area shape="rect" id="node3" href="$stdint_8h.html" title="stdint.h" alt="" coords="471,319,536,345"/>
+<area shape="rect" id="node6" href="$stdbool_8h.html" title="stdbool.h" alt="" coords="223,319,298,345"/>
+<area shape="rect" id="node10" href="$list_8h.html" title="list.h" alt="" coords="415,244,466,271"/>
+<area shape="rect" id="node11" href="$stddef_8h.html" title="stddef.h" alt="" coords="651,319,721,345"/>
+<area shape="rect" id="node13" href="$round_8h.html" title="round.h" alt="" coords="592,169,657,196"/>
+</map>

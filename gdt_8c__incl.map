@@ -1,0 +1,11 @@
+<map id="/home/pranjal/pintos/src/userprog/gdt.c" name="/home/pranjal/pintos/src/userprog/gdt.c">
+<area shape="rect" id="node2" href="$gdt_8h.html" title="userprog/gdt.h" alt="" coords="135,95,240,121"/>
+<area shape="rect" id="node5" href="$debug_8h.html" title="debug.h" alt="" coords="384,169,452,196"/>
+<area shape="rect" id="node6" href="$tss_8h.html" title="userprog/tss.h" alt="" coords="5,95,111,121"/>
+<area shape="rect" id="node7" href="$palloc_8h.html" title="threads/palloc.h" alt="" coords="453,95,567,121"/>
+<area shape="rect" id="node9" href="$vaddr_8h.html" title="threads/vaddr.h" alt="" coords="263,95,375,121"/>
+<area shape="rect" id="node3" href="$loader_8h.html" title="threads/loader.h" alt="" coords="95,169,210,196"/>
+<area shape="rect" id="node4" href="$stdint_8h.html" title="stdint.h" alt="" coords="120,244,185,271"/>
+<area shape="rect" id="node8" href="$stddef_8h.html" title="stddef.h" alt="" coords="477,169,546,196"/>
+<area shape="rect" id="node10" href="$stdbool_8h.html" title="stdbool.h" alt="" coords="285,169,359,196"/>
+</map>

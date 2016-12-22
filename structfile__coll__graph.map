@@ -1,0 +1,5 @@
+<map id="file" name="file">
+<area shape="rect" id="node2" href="$structinode.html" title="inode" alt="" coords="61,97,114,124"/>
+<area shape="rect" id="node3" href="$structinode__disk.html" title="inode_disk" alt="" coords="5,7,89,33"/>
+<area shape="rect" id="node4" href="$structlist__elem.html" title="list_elem" alt="" coords="114,7,189,33"/>
+</map>

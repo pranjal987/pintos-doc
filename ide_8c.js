@@ -1,0 +1,28 @@
+var ide_8c =
+[
+    [ "ata_disk", "structata__disk.html", "structata__disk" ],
+    [ "channel", "structchannel.html", "structchannel" ],
+    [ "CHANNEL_CNT", "ide_8c.html#aed31f8d4617249f3a96e6038e652194e", null ],
+    [ "CMD_IDENTIFY_DEVICE", "ide_8c.html#a34785bd459d404747354fc4c5da3eeb2", null ],
+    [ "CMD_READ_SECTOR_RETRY", "ide_8c.html#ac3249b993cd9bee1a522ab7fe4fa2875", null ],
+    [ "CMD_WRITE_SECTOR_RETRY", "ide_8c.html#ab693c8ade8ea06207282a120c6a95b49", null ],
+    [ "CTL_SRST", "ide_8c.html#a20d55587e2b43fed1168972dcc963728", null ],
+    [ "DEV_DEV", "ide_8c.html#a229d9c672119c31246cb5a46955252d0", null ],
+    [ "DEV_LBA", "ide_8c.html#a3a8db654ddff6915da10cc09d0e14771", null ],
+    [ "DEV_MBS", "ide_8c.html#a980214a3ca249c5c0956b189e47a56f2", null ],
+    [ "reg_alt_status", "ide_8c.html#a87589b087951334b384d285e1bf486c9", null ],
+    [ "reg_command", "ide_8c.html#ab99d71cce46b6e27fe03ca023d48056c", null ],
+    [ "reg_ctl", "ide_8c.html#a0a34473ff78753fa67a09fc8f34f3b81", null ],
+    [ "reg_data", "ide_8c.html#a4063badbb8a8ae2e44ae6d2099b5f0d3", null ],
+    [ "reg_device", "ide_8c.html#a1bd78e11470d9a7ffb6d720c9c3801b6", null ],
+    [ "reg_error", "ide_8c.html#ab4452e5ae677c19dae7868616be5b25a", null ],
+    [ "reg_lbah", "ide_8c.html#a5bb66f5a8375377794d9895bf5f54b8f", null ],
+    [ "reg_lbal", "ide_8c.html#a4779eaf99f72f15a3de118f1b32ffd2d", null ],
+    [ "reg_lbam", "ide_8c.html#af48b9ab28b218aaf86755ced4db35aa1", null ],
+    [ "reg_nsect", "ide_8c.html#a5552d25f2cceca35f1390ec81072263c", null ],
+    [ "reg_status", "ide_8c.html#a77237dcfa9c18241804aeb5f1a75d030", null ],
+    [ "STA_BSY", "ide_8c.html#a9d568d02d45d914c5839758673f0ece0", null ],
+    [ "STA_DRDY", "ide_8c.html#a8b14630ab1ade3cf9a53d8876f7288db", null ],
+    [ "STA_DRQ", "ide_8c.html#a92e968805f523a6eecdec3b1fe6ccbab", null ],
+    [ "ide_init", "ide_8c.html#a5e8e1409e0675bdd93040403c52dd660", null ]
+];

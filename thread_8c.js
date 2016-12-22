@@ -1,0 +1,27 @@
+var thread_8c =
+[
+    [ "kernel_thread_frame", "structkernel__thread__frame.html", "structkernel__thread__frame" ],
+    [ "THREAD_MAGIC", "thread_8c.html#ae931feba4d799a96553d3f01fc3dcce3", null ],
+    [ "TIME_SLICE", "thread_8c.html#ae17b0e0d44770e679be7612a45ca831a", null ],
+    [ "thread_block", "thread_8c.html#ad70c4eeb51cd5b0ce2abb939924c7469", null ],
+    [ "thread_create", "thread_8c.html#a8f7759a71c1c49fc8761ef92aa90a36d", null ],
+    [ "thread_current", "thread_8c.html#a13774a29a2abd2f197ceb07815f2a6ff", null ],
+    [ "thread_exit", "thread_8c.html#a87c2438941819bb3cc31658aa9eb66fe", null ],
+    [ "thread_foreach", "thread_8c.html#af8e1023bfbf318808dcb220a6596eea5", null ],
+    [ "thread_get_load_avg", "thread_8c.html#af2f1c7f0796b3d91e5734dac094a4d0c", null ],
+    [ "thread_get_nice", "thread_8c.html#a259e6ba0590380f004167b5570c8dbd3", null ],
+    [ "thread_get_priority", "thread_8c.html#a7425a4395bacbf7d3e50ba10ff42f5b6", null ],
+    [ "thread_get_recent_cpu", "thread_8c.html#a92a544b3630afc87e7bb176ddcb68dac", null ],
+    [ "thread_name", "thread_8c.html#ab7d2afd0eace5879ff961b320f7e863b", null ],
+    [ "thread_print_stats", "thread_8c.html#af5c30c6492da5ef4a6a787c7da893370", null ],
+    [ "thread_schedule_tail", "thread_8c.html#acbbd25908c41e62d44a179cfbc3962e2", null ],
+    [ "thread_set_nice", "thread_8c.html#ab732fcf33c6ea951e0c0d0f9d2e5d6e9", null ],
+    [ "thread_set_priority", "thread_8c.html#a9956c9159ed8901839fa5581c41fcf4f", null ],
+    [ "thread_start", "thread_8c.html#a07e468d365e1799676192b95b2067f59", null ],
+    [ "thread_tick", "thread_8c.html#a99b55ae8059d7834cc113334a3fd0c3c", null ],
+    [ "thread_tid", "thread_8c.html#ac4557309ef822a88c742c075ecb16a11", null ],
+    [ "thread_unblock", "thread_8c.html#a0cd30c260607aec4597c5b613c5e013f", null ],
+    [ "thread_yield", "thread_8c.html#aaa9229e0f462f60bb9550919fa3d7699", null ],
+    [ "thread_mlfqs", "thread_8c.html#a2f931dea2ffaab0b5b3ece1ae452096b", null ],
+    [ "thread_stack_ofs", "thread_8c.html#a5ed1c6c7f8515fdbf57e7f8cff07b60e", null ]
+];

@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['channel_5fcnt',['CHANNEL_CNT',['../ide_8c.html#aed31f8d4617249f3a96e6038e652194e',1,'ide.c']]],
+  ['char_5fbit',['CHAR_BIT',['../limits_8h.html#a308d9dd2c0028ddb184b455bbd7865de',1,'limits.h']]],
+  ['char_5fmax',['CHAR_MAX',['../limits_8h.html#a778eefd6535a9d4b752fca5dd0af58db',1,'limits.h']]],
+  ['char_5fmin',['CHAR_MIN',['../limits_8h.html#a5d707bd32338557ced18c6ac76ca1b3a',1,'limits.h']]],
+  ['check',['CHECK',['../lib_8h.html#a1075b558a8443f6395cf8c65fc337456',1,'lib.h']]],
+  ['child_5fcnt',['CHILD_CNT',['../syn-read_8c.html#af505797e50ef3c022ecc313b96fdc6d0',1,'CHILD_CNT():&#160;syn-read.c'],['../syn-write_8h.html#af505797e50ef3c022ecc313b96fdc6d0',1,'CHILD_CNT():&#160;syn-write.h'],['../syn-rw_8c.html#af505797e50ef3c022ecc313b96fdc6d0',1,'CHILD_CNT():&#160;syn-rw.c'],['../rox-child_8c.html#af505797e50ef3c022ecc313b96fdc6d0',1,'CHILD_CNT():&#160;rox-child.c'],['../rox-multichild_8c.html#af505797e50ef3c022ecc313b96fdc6d0',1,'CHILD_CNT():&#160;rox-multichild.c'],['../page-parallel_8c.html#af505797e50ef3c022ecc313b96fdc6d0',1,'CHILD_CNT():&#160;page-parallel.c']]],
+  ['chunk_5fcnt',['CHUNK_CNT',['../syn-rw_8h.html#af1fac722d72bce7d004932e2a07e2fb8',1,'CHUNK_CNT():&#160;syn-rw.h'],['../page-merge-seq_8c.html#af1fac722d72bce7d004932e2a07e2fb8',1,'CHUNK_CNT():&#160;page-merge-seq.c'],['../parallel-merge_8c.html#af1fac722d72bce7d004932e2a07e2fb8',1,'CHUNK_CNT():&#160;parallel-merge.c']]],
+  ['chunk_5fsize',['CHUNK_SIZE',['../syn-write_8h.html#aea3cfda4f3a9f978ec759f206cf186fe',1,'CHUNK_SIZE():&#160;syn-write.h'],['../syn-rw_8h.html#aea3cfda4f3a9f978ec759f206cf186fe',1,'CHUNK_SIZE():&#160;syn-rw.h'],['../page-merge-seq_8c.html#aea3cfda4f3a9f978ec759f206cf186fe',1,'CHUNK_SIZE():&#160;page-merge-seq.c'],['../parallel-merge_8c.html#aea3cfda4f3a9f978ec759f206cf186fe',1,'CHUNK_SIZE():&#160;parallel-merge.c']]],
+  ['cmd_5fidentify_5fdevice',['CMD_IDENTIFY_DEVICE',['../ide_8c.html#a34785bd459d404747354fc4c5da3eeb2',1,'ide.c']]],
+  ['cmd_5fread_5fsector_5fretry',['CMD_READ_SECTOR_RETRY',['../ide_8c.html#ac3249b993cd9bee1a522ab7fe4fa2875',1,'ide.c']]],
+  ['cmd_5fwrite_5fsector_5fretry',['CMD_WRITE_SECTOR_RETRY',['../ide_8c.html#ab693c8ade8ea06207282a120c6a95b49',1,'ide.c']]],
+  ['cmos_5freg_5fio',['CMOS_REG_IO',['../rtc_8c.html#a1ac7740d7d2f92d2e52a39d5b651ede4',1,'rtc.c']]],
+  ['cmos_5freg_5fset',['CMOS_REG_SET',['../rtc_8c.html#ab4833329c1d0d266379f0fce7051a2b4',1,'rtc.c']]],
+  ['col_5fcnt',['COL_CNT',['../vga_8c.html#a3d52918a929a1a00bd19e4c185633a53',1,'vga.c']]],
+  ['control_5freg',['CONTROL_REG',['../shutdown_8c.html#a336c6040d578661ad9c06becabc9cfe0',1,'shutdown.c']]],
+  ['ctl_5fsrst',['CTL_SRST',['../ide_8c.html#a20d55587e2b43fed1168972dcc963728',1,'ide.c']]]
+];

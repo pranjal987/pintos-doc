@@ -1,0 +1,21 @@
+<map id="/home/pranjal/pintos/src/threads/interrupt.h" name="/home/pranjal/pintos/src/threads/interrupt.h">
+<area shape="rect" id="node2" href="$ide_8c.html" title="/home/pranjal/pintos\l/src/devices/ide.c" alt="" coords="33,95,172,136"/>
+<area shape="rect" id="node3" href="$intq_8h.html" title="/home/pranjal/pintos\l/src/devices/intq.h" alt="" coords="196,95,335,136"/>
+<area shape="rect" id="node6" href="$serial_8c.html" title="/home/pranjal/pintos\l/src/devices/serial.c" alt="" coords="331,184,469,225"/>
+<area shape="rect" id="node7" href="$kbd_8c.html" title="/home/pranjal/pintos\l/src/devices/kbd.c" alt="" coords="409,95,548,136"/>
+<area shape="rect" id="node8" href="$pit_8c.html" title="/home/pranjal/pintos\l/src/devices/pit.c" alt="" coords="572,95,711,136"/>
+<area shape="rect" id="node9" href="$speaker_8c.html" title="/home/pranjal/pintos\l/src/devices/speaker.c" alt="" coords="735,95,889,136"/>
+<area shape="rect" id="node10" href="$timer_8c.html" title="/home/pranjal/pintos\l/src/devices/timer.c" alt="" coords="913,95,1052,136"/>
+<area shape="rect" id="node11" href="$vga_8c.html" title="/home/pranjal/pintos\l/src/devices/vga.c" alt="" coords="1076,95,1215,136"/>
+<area shape="rect" id="node12" href="$kernel_2console_8c.html" title="/home/pranjal/pintos\l/src/lib/kernel/console.c" alt="" coords="1239,95,1399,136"/>
+<area shape="rect" id="node13" href="$kernel_2debug_8c.html" title="/home/pranjal/pintos\l/src/lib/kernel/debug.c" alt="" coords="1423,95,1574,136"/>
+<area shape="rect" id="node14" href="$init_8c.html" title="/home/pranjal/pintos\l/src/threads/init.c" alt="" coords="1599,95,1737,136"/>
+<area shape="rect" id="node15" href="$interrupt_8c.html" title="/home/pranjal/pintos\l/src/threads/interrupt.c" alt="" coords="1762,95,1915,136"/>
+<area shape="rect" id="node16" href="$synch_8c.html" title="/home/pranjal/pintos\l/src/threads/synch.c" alt="" coords="1940,95,2081,136"/>
+<area shape="rect" id="node17" href="$thread_8c.html" title="/home/pranjal/pintos\l/src/threads/thread.c" alt="" coords="2105,95,2247,136"/>
+<area shape="rect" id="node18" href="$exception_8c.html" title="/home/pranjal/pintos\l/src/userprog/exception.c" alt="" coords="2271,95,2441,136"/>
+<area shape="rect" id="node19" href="$process_8c.html" title="/home/pranjal/pintos\l/src/userprog/process.c" alt="" coords="2465,95,2623,136"/>
+<area shape="rect" id="node20" href="$userprog_2syscall_8c.html" title="/home/pranjal/pintos\l/src/userprog/syscall.c" alt="" coords="2648,95,2803,136"/>
+<area shape="rect" id="node4" href="$input_8c.html" title="/home/pranjal/pintos\l/src/devices/input.c" alt="" coords="5,184,144,225"/>
+<area shape="rect" id="node5" href="$intq_8c.html" title="/home/pranjal/pintos\l/src/devices/intq.c" alt="" coords="168,184,307,225"/>
+</map>

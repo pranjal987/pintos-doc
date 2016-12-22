@@ -1,0 +1,8 @@
+<map id="ata_disk" name="ata_disk">
+<area shape="rect" id="node2" href="$structchannel.html" title="channel" alt="" coords="90,392,157,419"/>
+<area shape="rect" id="node3" href="$structsemaphore.html" title="semaphore" alt="" coords="169,213,256,240"/>
+<area shape="rect" id="node6" href="$structlock.html" title="lock" alt="" coords="281,303,328,329"/>
+<area shape="rect" id="node4" href="$structlist.html" title="list" alt="" coords="208,112,247,139"/>
+<area shape="rect" id="node5" href="$structlist__elem.html" title="list_elem" alt="" coords="229,7,303,33"/>
+<area shape="rect" id="node7" href="$structthread.html" title="thread" alt="" coords="273,163,331,189"/>
+</map>

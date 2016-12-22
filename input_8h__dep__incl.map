@@ -1,0 +1,6 @@
+<map id="/home/pranjal/pintos/src/devices/input.h" name="/home/pranjal/pintos/src/devices/input.h">
+<area shape="rect" id="node2" href="$input_8c.html" title="/home/pranjal/pintos\l/src/devices/input.c" alt="" coords="5,95,144,136"/>
+<area shape="rect" id="node3" href="$kbd_8c.html" title="/home/pranjal/pintos\l/src/devices/kbd.c" alt="" coords="168,95,307,136"/>
+<area shape="rect" id="node4" href="$serial_8c.html" title="/home/pranjal/pintos\l/src/devices/serial.c" alt="" coords="331,95,469,136"/>
+<area shape="rect" id="node5" href="$init_8c.html" title="/home/pranjal/pintos\l/src/threads/init.c" alt="" coords="493,95,632,136"/>
+</map>

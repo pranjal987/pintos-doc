@@ -1,0 +1,12 @@
+<map id="/home/pranjal/pintos/src/threads/io.h" name="/home/pranjal/pintos/src/threads/io.h">
+<area shape="rect" id="node2" href="$ide_8c.html" title="/home/pranjal/pintos\l/src/devices/ide.c" alt="" coords="5,95,144,136"/>
+<area shape="rect" id="node3" href="$kbd_8c.html" title="/home/pranjal/pintos\l/src/devices/kbd.c" alt="" coords="168,95,307,136"/>
+<area shape="rect" id="node4" href="$pit_8c.html" title="/home/pranjal/pintos\l/src/devices/pit.c" alt="" coords="331,95,469,136"/>
+<area shape="rect" id="node5" href="$rtc_8c.html" title="/home/pranjal/pintos\l/src/devices/rtc.c" alt="" coords="493,95,632,136"/>
+<area shape="rect" id="node6" href="$serial_8c.html" title="/home/pranjal/pintos\l/src/devices/serial.c" alt="" coords="656,95,795,136"/>
+<area shape="rect" id="node7" href="$shutdown_8c.html" title="/home/pranjal/pintos\l/src/devices/shutdown.c" alt="" coords="819,95,983,136"/>
+<area shape="rect" id="node8" href="$speaker_8c.html" title="/home/pranjal/pintos\l/src/devices/speaker.c" alt="" coords="1008,95,1163,136"/>
+<area shape="rect" id="node9" href="$vga_8c.html" title="/home/pranjal/pintos\l/src/devices/vga.c" alt="" coords="1187,95,1325,136"/>
+<area shape="rect" id="node10" href="$init_8c.html" title="/home/pranjal/pintos\l/src/threads/init.c" alt="" coords="1349,95,1488,136"/>
+<area shape="rect" id="node11" href="$interrupt_8c.html" title="/home/pranjal/pintos\l/src/threads/interrupt.c" alt="" coords="1513,95,1666,136"/>
+</map>

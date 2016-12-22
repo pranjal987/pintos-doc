@@ -1,0 +1,6 @@
+<map id="/home/pranjal/pintos/src/lib/kernel/console.h" name="/home/pranjal/pintos/src/lib/kernel/console.h">
+<area shape="rect" id="node2" href="$shutdown_8c.html" title="/home/pranjal/pintos\l/src/devices/shutdown.c" alt="" coords="5,95,169,136"/>
+<area shape="rect" id="node3" href="$kernel_2console_8c.html" title="/home/pranjal/pintos\l/src/lib/kernel/console.c" alt="" coords="194,95,354,136"/>
+<area shape="rect" id="node4" href="$kernel_2debug_8c.html" title="/home/pranjal/pintos\l/src/lib/kernel/debug.c" alt="" coords="379,95,529,136"/>
+<area shape="rect" id="node5" href="$init_8c.html" title="/home/pranjal/pintos\l/src/threads/init.c" alt="" coords="554,95,693,136"/>
+</map>

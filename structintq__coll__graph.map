@@ -1,0 +1,7 @@
+<map id="intq" name="intq">
+<area shape="rect" id="node2" href="$structlock.html" title="lock" alt="" coords="112,295,159,321"/>
+<area shape="rect" id="node3" href="$structsemaphore.html" title="semaphore" alt="" coords="5,204,92,231"/>
+<area shape="rect" id="node4" href="$structlist.html" title="list" alt="" coords="52,113,91,140"/>
+<area shape="rect" id="node5" href="$structlist__elem.html" title="list_elem" alt="" coords="74,7,149,33"/>
+<area shape="rect" id="node6" href="$structthread.html" title="thread" alt="" coords="118,204,177,231"/>
+</map>
